@@ -1,0 +1,17 @@
+path: /content/truckscenes_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+- car
+- truck
+- bus
+- trailer
+- other_vehicle
+- pedestrian
+- motorcycle
+- bicycle
+- traffic_cone
+- barrier
+- animal
+- traffic_sign
